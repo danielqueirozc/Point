@@ -11,7 +11,7 @@ Um aplicativo de pontos de clique simples para aprender a usar o React.
 ## Instalação
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuari/click-point.git
+git clone https://github.com/danielqueirozc/Point.git
 
 Copy
 Insert
