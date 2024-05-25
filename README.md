@@ -2,7 +2,7 @@
 
 Um aplicativo de pontos de clique simples para aprender a usar o React.
 
-## Tecnologias usadas
+## 🛠️ Tecnologias usadas
 
 - React
 - TypeScript
@@ -11,10 +11,12 @@ Um aplicativo de pontos de clique simples para aprender a usar o React.
 ## Instalação
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/click-point.git
+git clone https://github.com/seu-usuari/click-point.git
 
 Copy
 Insert
+
+## 🔧 Instalação
 
 2. Instale as dependências:
 npm install
