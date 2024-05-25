@@ -1,35 +1,31 @@
-# Point
+# Click-Point
 
-Point é um aplicativo de comércio eletrônico que permite que os usuários criem e compartilhem listas de compras. Os usuários podem adicionar itens à lista, marcar itens como comprados e compartilhar a lista com outros usuários.
+Um aplicativo de pontos de clique simples para aprender a usar o React.
 
-## Tecnologias utilizadas
+## Tecnologias usadas
 
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+- React
+- TypeScript
+- Tailwind CSS
 
-## Começando
-
-Para executar o projeto localmente, siga estas etapas:
+## Instalação
 
 1. Clone o repositório:
+git clone https://github.com/seu-usuario/click-point.git
 
-   ```bash
-   git clone https://github.com/seu-usuario/point.git
-Instale as dependências:
 Copy
-Insert in Terminal
+Insert
+
+2. Instale as dependências:
 npm install
-Inicie o aplicativo:
-Copy
-Insert in Terminal
-npm start
-Abra o aplicativo no emulador ou dispositivo físico.
-Contribuindo
-Sinta-se à vontade para contribuir com o projeto. Por favor, siga as etapas abaixo:
 
-Bifurque este repositório.
-Crie uma branch: git checkout -b minha-feature.
-Faça suas alterações e confirme-as: git commit -m 'Adiciona nova funcionalidade'.
-Envie para a branch: git push origin minha-feature.
-Abra um Pull Request.
+Copy
+Insert
+
+3. Inicie o servidor de desenvolvimento:
+npm run dev
+
+Copy
+Insert
+
+4. Abra o navegador em `http://localhost:3000` para ver o aplicativo em funcionamento.
