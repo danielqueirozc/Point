@@ -8,15 +8,13 @@ Um aplicativo de pontos de clique simples para aprender a usar o React.
 - TypeScript
 - Tailwind CSS
 
-## Instalação
+## 🔧 Instalação
 
 1. Clone o repositório:
 git clone https://github.com/danielqueirozc/Point.git
 
 Copy
 Insert
-
-## 🔧 Instalação
 
 2. Instale as dependências:
 npm install
